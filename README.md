@@ -31,7 +31,7 @@ These days my focus is more practical and modern:
 📊 **GitHub at a Glance**  
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sugidaffection&theme=monokai&border=6B8E23&dates=FFFFFF" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sugidaffection&theme=monokai&border=6B8E23&dates=FFFFFF" />
 </p>
 
 <p align="center">
