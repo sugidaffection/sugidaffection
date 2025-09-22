@@ -9,7 +9,7 @@
 - Focused on the **Rust ecosystem** — Leptos, Dioxus, Axum, Bevy.  
 - Love building **full-stack apps** on a modern & free stack: Rust + Cloudflare Workers + Supabase.  
 - Write **private libraries** for FFI (C/Node.js via N-API) and occasionally polish them for open source.  
-- Past life in **Python (Flask, SQLAlchemy, LangChain)** and **Angular (since v8 in 2018 → v20 today)**.  
+- Past life in **Python (Flask, SQLAlchemy, LangChain)** and **Angular (since v7 in 2018 → v20 today)**.  
 - Tinkered with Yew and early Rust game engines back in the day, but Rust has been home since 2018.  
 
 ---
