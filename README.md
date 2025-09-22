@@ -31,10 +31,6 @@ These days my focus is more practical and modern:
 📊 **GitHub at a Glance**  
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sugidaffection&theme=monokai&border=6B8E23&dates=FFFFFF" />
-</p>
-
-<p align="center">
   <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sugidaffection&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&border_radius=10" />
 </p>
 
