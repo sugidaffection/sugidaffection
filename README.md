@@ -1,34 +1,92 @@
-### 🦀 Yo, I’m Sugi — Rust & Open Source Dev
+# 👋 Hi, I'm Sugi
 
-> *“Build boldly. Automate everything. Think like an engineer, execute like a hacker.”*  
-> *(…and occasionally break things on purpose just to see how they work.)*
-
----
-
-📌 **About Me**  
-- Focused on the **Rust ecosystem** — Leptos, Dioxus, Axum, Bevy.  
-- Love building **full-stack apps** on a modern & free stack: Rust + Cloudflare Workers + Supabase.  
-- Write **private libraries** for FFI (C/Node.js via N-API) and occasionally polish them for open source.  
-- Past life in **Python (Flask, SQLAlchemy, LangChain)** and **Angular (since v7 in 2018 → v20 today)**.  
-- Tinkered with Yew and early Rust game engines back in the day, but Rust has been home since 2018.  
+> 🎯 **Full-Stack Rust Developer** | 🦀 **Rust Enthusiast** | ⚡ **Performance Obsessed**
 
 ---
 
-📂 **Projects & What I’m Building**
+## 💻 Tech Stack
 
-Most of my early public repos were experiments — e.g. a *Super Mario* clone and `rs-piston` ( used for learning).  
-These days my focus is more practical and modern:
+### Programming Languages
+```rust
+let languages = vec![
+    "Rust (Primary)",   // 🦀 2021 / 2024 Edition
+    "Zig",              // ⚡ Systems Programming
+    "TypeScript",       // 🌐 Cloudflare Workers
+    "Python",           // 🐍 Scripting & Automation
+    "SQL",              // 📊 Supabase
+];
+```
 
-- 🦀 **Rust-first dev** — Leptos, Axum, Dioxus for fullstack/frontend.  
-- 🔗 **FFI + N-API bridges** — connecting Rust libraries with other runtimes.  
-- ☁️ **Cloudflare Workers + Supabase** — serverless apps with real-time DBs.  
-- 🛠️ **Private utilities** — small Rust libraries I rely on, some gradually becoming open source.  
+### Modern Rust Stack
+| Category | Tech |
+|----------|------|
+| **Frontend** | Dioxus 0.7 · Leptos 0.8 |
+| **Backend** | Axum 0.8 · Actix |
+| **Edge** | Cloudflare Workers · workers-rs |
+| **Database** | Supabase · PostgreSQL · SQLite · Redis |
+| **ORM/Query** | SQLx |
+| **Async Runtime** | Tokio |
+| **Graphics** | wgpu · winit |
+| **API** | RESTful · WebSocket |
 
-*(Expect more Rust-driven tools and apps showing up here soon 🚀)*
+### Desktop & Mobile
+| Category | Tech |
+|----------|------|
+| **Desktop UI** | Dioxus Desktop · Iced · COSMIC |
+| **Mobile** | Flutter |
+
+### Dev Tools
+```bash
+Tools: Git · Docker · GitHub Actions · CI/CD · Linux · Pop!_OS · wrangler
+```
 
 ---
 
-📊 **GitHub at a Glance**  
+## 🚀 Open Source Projects
+
+### 🔥 Starred Projects
+| Project | Stars | Forks | Description |
+|---------|-------|-------|-------------|
+| [**super-mario-bros**](https://github.com/sugidaffection/super-mario-bros) | ⭐ 35 | 3 | 🎮 Super Mario Bros - Rust Piston Game Engine |
+| [**threejs-first-person-shooter**](https://github.com/sugidaffection/threejs-first-person-shooter) | ⭐ 13 | 6 | 🔫 Three.js First-Person Shooter |
+| [**rs-2dplatformer-piston**](https://github.com/sugidaffection/rs-2dplatformer-piston) | ⭐ 11 | 2 | 🎮 2D Platformer - Rust Piston Engine |
+| [**rust-shortlink**](https://github.com/sugidaffection/rust-shortlink) | ⭐ 2 | - | 🔗 Rust URL Shortener |
+| [**rust-snake**](https://github.com/sugidaffection/rust-snake) | ⭐ 1 | - | 🐍 Rust Snake Game |
+| [**cf-leptos-supabase-auth**](https://github.com/sugidaffection/cf-leptos-supabase-auth) | ⭐ 1 | - | 🔐 Leptos + Supabase Auth |
+
+<details>
+<summary>🎮 Game Projects</summary>
+
+- **js-supermariobros** - JavaScript Super Mario Bros
+- **rust-snake** - Rust Snake Game
+- **threejs-first-person-shooter** - Three.js FPS
+- **super-mario-bros** - Super Mario Bros - Rust Piston
+- **rs-2dplatformer-piston** - 2D Platformer - Rust Piston
+
+</details>
+
+<details>
+<summary>🌐 Web & Tools</summary>
+
+- **rust-shortlink** - Rust URL Shortener
+- **cf-leptos-axum-template** - Cloudflare Workers + Leptos + Axum Template
+- **cf-leptos-supabase-auth** - Leptos + Supabase Auth
+- **dioxus-todo-desktop-app** - Dioxus Todo Desktop App
+- **ui-templates** - UI Templates Collection
+- **smart-note** - Note Web App
+
+</details>
+
+<details>
+<summary>🖥️ Desktop Apps</summary>
+
+- **dioxus-todo-desktop-app** - Dioxus Todo Desktop Application
+
+</details>
+
+---
+
+## 📊 GitHub at a Glance
 
 <p align="center">
   <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sugidaffection&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&border_radius=10" />
@@ -40,13 +98,36 @@ These days my focus is more practical and modern:
 
 ---
 
-🔧 **TL;DR**  
-I build with Rust, scale with Cloudflare/Supabase, and leave breadcrumbs for future-me (who is usually confused).
+## 🏆 Philosophy
+
+- ✨ **Zero-Cost Abstractions** - No performance compromise
+- 🧪 **Type Safety First** - Catch bugs at compile time
+- 🔄 **Async-First Design** - Efficient concurrent systems
+- 📦 **Modular Architecture** - Reusable, testable components
+- 📖 **Documentation-Driven** - Self-explanatory code
 
 ---
 
-✅ *Stats powered by [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) + [Anurag’s GitHub Readme Stats fork](https://github.com/anuraghazra/github-readme-stats) — faster, prettier, less flaky.*
+## 🔥 Currently Exploring
+
+- 🦀 **Rust 2024 Edition** - Latest features & patterns
+- 🎮 **Game Development** - Bevy engine experiments
+- 🤖 **AI Agents** - LLM + Rust integration
+- ⚡ **Edge Computing** - Cloudflare Workers + Rust/Zig
 
 ---
 
-✨ *Open source builder • Rust enthusiast • Terminal whisperer • Occasional over-engineer*
+## 📬 Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-sugidaffection-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sugidaffection)
+[![Email](https://img.shields.io/badge/Email-developer.sugiono@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.sugiono@gmail.com)
+
+</div>
+
+---
+
+<p align="center">
+<em>Coding with ☕ and 🦀</em>
+</p>
